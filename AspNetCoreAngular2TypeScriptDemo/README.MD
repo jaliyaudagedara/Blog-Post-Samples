@@ -1,0 +1,1 @@
+AspNetCoreAngular2TypeScriptDemo
