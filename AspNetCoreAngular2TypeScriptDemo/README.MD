@@ -1,1 +1,2 @@
-AspNetCoreAngular2TypeScriptDemo
+Restore npm packages
+Run restore gulp task
