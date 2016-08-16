@@ -1,0 +1,22 @@
+{
+  "name": "AspNetWebApiSignalRDemo.WebApp",
+  "homepage": "https://github.com/jaliyaudagedara/AspNetWebApiSignalRDemo",
+  "authors": [
+    "Jaliya Udagedara <jaliya.udagedara@hotmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "2.2.0",
+    "signalr": "^2.2.0",
+    "angular": "^1.5.7"
+  }
+}
