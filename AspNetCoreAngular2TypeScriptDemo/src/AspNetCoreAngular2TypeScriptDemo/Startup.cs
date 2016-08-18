@@ -28,6 +28,7 @@ namespace AspNetCoreAngular2TypeScriptDemo
                 app.UseDeveloperExceptionPage();
             }
 
+            app.UseDefaultFiles();
             app.UseStaticFiles();
         }
     }
