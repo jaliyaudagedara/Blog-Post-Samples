@@ -1,5 +1,5 @@
 # Post
-[Getting Started with React, Babel and Webpack](http://jaliyaudagedara.blogspot.com/2016/08/angular-2-with-typescript-on-top-of.html)
+[Getting Started with React, Babel and Webpack](http://jaliyaudagedara.blogspot.com/2017/02/getting-started-with-react-babel-and.html)
 
 # Download the sample
 ```
