@@ -11,6 +11,7 @@ git pull origin master
 ```
 
 # Steps to run the project
-1. npm install
-2. npm run start-webpack-server
-3. Navigate to http://localhost:9999
+1. npm install webpack-dev-server -g
+2. npm install
+3. npm run start-webpack-server
+4. Navigate to http://localhost:9999
